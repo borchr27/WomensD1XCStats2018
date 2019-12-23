@@ -1,0 +1,244 @@
+PL	NAME	YEAR	TEAM	Avg. Mile	TIME	SCORE
+1	Malone, Shannon	SR-4	Syracuse	5:45.6	21:28.7	1
+2	Morenaite, Egle	SO-2	Iona	5:48.6	21:39.9	2
+3	Tertsch, Lisa	SO-2	Harvard	5:48.8	21:40.4	3
+4	Kokes, Libby	SR-4	Columbia	5:49.6	21:43.6	4
+5	Knibb, Taylor	JR-3	Cornell	5:51.1	21:49.0	5
+6	Masterson, Andrea	SR-4	Yale	5:54.1	22:00.1	6
+7	Gregoire, Erin	SR-4	Columbia	5:54.1	22:00.4	7
+8	Wasserman, Katie	JR-3	Columbia	5:56.2	22:08.0	8
+9	Kogan, Maria	SO-2	Columbia	5:56.4	22:09.0	9
+10	Murphy, Glendora	SO-2	Dartmouth	5:56.5	22:09.1	10
+11	Sapone, Lauren	JR-3	Dartmouth	5:56.9	22:10.7	11
+12	McCormick, Morgan	FR-1	Yale	5:57.8	22:14.0	12
+13	Hays, Alexandra	SO-2	Columbia	5:57.8	22:14.1	13
+14	Fear, Georgia	JR-3	Dartmouth	5:57.9	22:14.4	14
+15	Nuttall, Gemma	SO-2	Iona	5:58.4	22:16.2	15
+16	Stevenson, Julia	JR-3	Dartmouth	5:58.5	22:16.8	16
+17	Srour, Lucy	SR-4	Brown	5:58.7	22:17.6	17
+18	Taylor, Annie	SR-4	Cornell	5:59.3	22:19.5	18
+19	Quinn, Siobhan	SR-4	Canisius	5:59.5	22:20.5	19
+20	DeLay, Kayley	SO-2	Yale	5:59.7	22:21.3	20
+21	Malone, Mary	SR-4	Syracuse	5:59.8	22:21.6	21
+22	Dobson, Isabella	SO-2	Cornell	6:00.0	22:22.3	22
+23	Reinhardt, Hannah	JR-3	Albany	6:00.4	22:23.6	23
+24	Gasparrini, Jenna	JR-3	Holy Cross	6:00.8	22:25.2	24
+25	Murphy, Sophie	SO-2	Iona	6:01.2	22:26.8	25
+26	Chau, Jocelyn	FR-1	Yale	6:01.5	22:27.9	26
+27	Tedeschi, Gianna	SO-2	Marist	6:02.0	22:29.9	27
+28	Rome, Regan	SR-4	Providence	6:02.3	22:30.9	28
+29	Gillespie, Kathryn	JR-3	Harvard	6:02.5	22:31.6	29
+30	Ghazarian, Sevanne	SO-2	Yale	6:03.6	22:35.7	30
+31	Richards, Kaley	JR-3	UMass Lowell	6:03.8	22:36.4	31
+32	Bonner, Rachel	SO-2	Syracuse	6:04.1	22:37.5	32
+33	Wheeler, Abbey	JR-3	Providence	6:04.2	22:37.9	33
+34	Todd, Gracie	SR-4	Cornell	6:04.3	22:38.3	34
+35	Kearley, Julia	SR-4	Iona	6:04.6	22:39.3	35
+36	Valentine, Samantha	SO-2	Brown	6:04.7	22:39.9	36
+37	Anderson, Lillian	SR-4	Dartmouth	6:04.9	22:40.5	37
+38	Lantz, Olivia	SR-4	Dartmouth	6:04.9	22:40.6	38
+39	Smith, Maya	FR-1	Brown	6:05.3	22:41.9	39
+40	McLaughlin, Abigail	JR-3	Columbia	6:05.5	22:42.6	40
+41	Zammitti, Melissa	SO-2	Cornell	6:05.9	22:44.2	41
+42	Ketchum, Ella	SO-2	Dartmouth	6:06.3	22:45.6	42
+43	Duca, Paige	JR-3	Boston College	6:06.7	22:47.1	43
+44	Jeffers, Carleen	SR-4	Brown	6:06.7	22:47.2	44
+45	Hayes, Delia	SR-4	Boston College	6:06.9	22:48.0	45
+46	Kompelien, Emily	FR-1	Brown	6:07.1	22:48.9	46
+47	Tripodi, Serena	SO-2	Columbia	6:07.5	22:50.4	47
+48	Juul, Anna	SO-2	Harvard	6:08.5	22:53.9	48
+49	Davison, Madeleine	JR-3	Syracuse	6:08.9	22:55.3	49
+50	Bellows, Allison	SR-4	Brown	6:09.3	22:56.8	50
+51	Sullivan Sweeney, Fian	FR-1	Boston College	6:09.5	22:57.6	51
+52	Spiers, Abigail	FR-1	Syracuse	6:09.6	22:57.9	52
+53	Clermont, Nicole	FR-1	Boston College	6:10.0	22:59.4	53
+54	Huelskamp, Audrey	JR-3	Cornell	6:10.4	23:01.0	54
+55	Nahom, Mia	SO-2	Connecticut	6:10.8	23:02.5	55
+56	Sisson, Annika	SR-4	Stony Brook	6:11.0	23:03.3	56
+57	Wilson, Emma	SO-2	Syracuse	6:11.0	23:03.4	57
+58	Ielfield, Hali	FR-1	Manhattan	6:11.2	23:04.0	 
+59	Fajardo, Lisa	SR-4	Manhattan	6:11.2	23:04.2	 
+60	Brumley, Briar	SR-4	Cornell	6:11.3	23:04.4	58
+61	Dickinson, Laura	FR-1	Syracuse	6:11.6	23:05.7	59
+62	O'Brien, Brianna	SO-2	Connecticut	6:11.9	23:06.5	60
+63	Martell, AnneMarie	SO-2	Vermont	6:11.9	23:06.6	61
+64	Machabee, Holly	JR-3	Albany	6:13.0	23:10.9	62
+65	Coffin, Maria	SO-2	Providence	6:13.7	23:13.3	63
+66	Rafter, Angelia	SO-2	Central Connecticut	6:13.9	23:14.0	64
+67	Champagne, Margaret	JR-3	New Hampshire	6:14.1	23:14.7	65
+68	Scheriff, Jessica	SR-4	Iona	6:14.2	23:15.2	66
+69	Kellar, Jessica	FR-1	Boston U.	6:14.2	23:15.3	67
+70	Wise, Louiza	JR-3	Northeastern	6:14.3	23:15.5	68
+71	Meeks, Gillian	JR-3	Harvard	6:14.4	23:16.1	69
+72	Nunnery, Bethany	JR-3	Army West Point	6:15.0	23:18.2	70
+73	Reyda, Lauren	SR-4	Buffalo	6:15.3	23:19.5	71
+74	Voight, Morgan	JR-3	Quinnipiac	6:15.5	23:20.1	72
+75	Burns, Emily	SR-4	Marist	6:15.6	23:20.6	73
+76	Taylor, Abigail	SR-4	Fordham	6:16.3	23:22.9	74
+77	Miller, Jane	JR-3	Yale	6:16.4	23:23.3	75
+78	Sherman, Cara	SR-4	Albany	6:16.7	23:24.4	76
+79	Conway, Chloe	JR-3	Brown	6:16.8	23:25.1	77
+80	Cortina, Camila	SR-4	Northeastern	6:17.1	23:25.9	78
+81	White, Lauren	SO-2	Boston College	6:17.1	23:26.2	79
+82	Forman, Sarah	SR-4	Siena	6:17.4	23:27.0	80
+83	Morris, Allie	JR-3	UMass Lowell	6:17.5	23:27.7	81
+84	Medrano, Tessa	SO-2	Harvard	6:17.7	23:28.2	82
+85	Grohn, Denise	JR-3	Marist	6:18.0	23:29.5	83
+86	Aneno, Susan	SR-4	Connecticut	6:18.2	23:30.1	84
+87	Masciarelli, Sophia	FR-1	Hofstra	6:18.3	23:30.5	85
+88	Murray, Katherine	SR-4	UMass Lowell	6:18.5	23:31.3	86
+89	Burr, Randi	FR-1	Connecticut	6:19.0	23:33.1	87
+90	Walters, Rebecca	FR-1	Marist	6:19.2	23:34.0	88
+91	Guevara, Tiana	SR-4	Stony Brook	6:19.5	23:35.1	89
+92	Hallahan, Maggie	JR-3	Vermont	6:19.7	23:35.9	90
+93	Starn, Brooke	SO-2	Harvard	6:19.9	23:36.5	91
+94	Klemens, Klaire	FR-1	Stony Brook	6:20.0	23:36.9	92
+95	Sayer, Samantha	SR-4	Vermont	6:20.4	23:38.2	93
+96	O'Reilly, Clodagh	JR-3	Stony Brook	6:20.6	23:38.9	94
+97	McArdle, Allison	JR-3	Holy Cross	6:20.7	23:39.3	95
+98	Oeser, Anna	FR-1	Boston College	6:20.7	23:39.3	96
+99	Fisher, Laurel	SR-4	Fordham	6:21.0	23:40.4	97
+100	Ohrtman, Kaitlyn	SO-2	Iona	6:21.1	23:40.8	98
+101	Smith, Maria	SO-2	Marist	6:21.3	23:41.7	99
+102	Cueva-Scarpelli, Jessica	JR-3	Binghamton	6:21.6	23:42.7	100
+103	Ortega, Alexandria	JR-3	Stony Brook	6:21.9	23:44.1	101
+104	Batsu, Corrine	SO-2	Boston U.	6:22.1	23:44.6	102
+105	Bakas, Kaitlin	JR-3	Quinnipiac	6:22.3	23:45.3	103
+106	Collins, Hayley	SO-2	Marist	6:22.7	23:46.9	104
+107	Gallery, Jaclyn	SO-2	Connecticut	6:22.7	23:47.1	105
+108	Trumble, Lauren	SR-4	Vermont	6:22.9	23:47.8	106
+109	Halbrook, Abby	SR-4	Army West Point	6:23.4	23:49.7	107
+110	Johnson, Sydney	JR-3	Siena	6:23.7	23:50.5	108
+111	Sullivan, Carlin	SR-4	Canisius	6:23.9	23:51.3	109
+112	Chigatayeva, Aziza	FR-1	Binghamton	6:24.1	23:52.1	110
+113	Mackay, Emily	SO-2	Binghamton	6:24.1	23:52.2	111
+114	DeCicco, Alex	JR-3	Providence	6:24.1	23:52.3	112
+115	Bohan, Shea	SR-4	Marist	6:24.3	23:52.7	113
+116	Holway, Louise	SO-2	Northeastern	6:24.4	23:53.3	114
+117	Solimine, Jenna	SO-2	UMass Lowell	6:24.5	23:53.6	115
+118	Andrews, Mika	SO-2	Army West Point	6:24.5	23:53.6	116
+119	Raftis, Kylee	SO-2	Boston College	6:24.5	23:53.6	117
+120	Guilfoyle, Noreen	FR-1	Albany	6:24.7	23:54.4	118
+121	Manning, Holly	JR-3	Stony Brook	6:25.0	23:55.6	119
+122	Koski, Phoebe	JR-3	Vermont	6:25.1	23:55.8	120
+123	Walak, Kelsey	SO-2	Northeastern	6:25.3	23:56.6	121
+124	Brawner, Megan	SO-2	Central Connecticut	6:26.2	24:00.0	122
+125	Randazzo, Ericka	SR-4	Connecticut	6:26.5	24:01.0	123
+126	Goldstein, Abbe	SO-2	Harvard	6:26.8	24:02.1	124
+127	Stewart, Kayla	SR-4	Canisius	6:26.9	24:02.4	125
+128	Guevara, Talia	SR-4	Stony Brook	6:26.9	24:02.4	126
+129	Foote, Bridget	SO-2	Northeastern	6:26.9	24:02.4	127
+130	Strain, Monica	SO-2	Siena	6:26.9	24:02.7	128
+131	Ricalton, Maria	SR-4	Quinnipiac	6:28.3	24:07.7	129
+132	McReavy, Hannah	FR-1	Providence	6:28.6	24:09.1	130
+133	Banda, Felicia	SR-4	Hofstra	6:28.9	24:10.0	131
+134	Piccinic, Shelby	FR-1	Army West Point	6:29.2	24:11.2	132
+135	Grebe, Angelina	SR-4	Fordham	6:29.5	24:12.3	133
+136	O'Shea, Caroline	SO-2	Vermont	6:29.7	24:13.0	134
+137	Curtin, Meghan	JR-3	Quinnipiac	6:29.9	24:13.8	135
+138	Richards, Marissa	SR-4	UMass Lowell	6:29.9	24:13.9	136
+139	Hubbell, Dawn	SR-4	Central Connecticut	6:30.3	24:15.2	137
+140	Schmitt, Anya	SO-2	Siena	6:30.5	24:16.0	138
+141	Olsmats, Eleonora	FR-1	New Hampshire	6:30.5	24:16.1	139
+142	Johnson, Camryn	JR-3	Siena	6:30.8	24:17.2	140
+143	Thorne, Jacqueline	JR-3	Sacred Heart	6:31.3	24:18.9	141
+144	Quigley, Madeline	JR-3	New Hampshire	6:31.3	24:19.1	142
+145	Snow, Sydney	JR-3	Fordham	6:31.4	24:19.2	143
+146	Krzyzanowski, Katarzyna	JR-3	Fordham	6:31.5	24:19.7	144
+147	McCormack, Kate	SR-4	Fordham	6:31.6	24:20.1	145
+148	Henry, Chardae	JR-3	Buffalo	6:31.8	24:20.9	146
+149	Huerta, Alicia	SR-4	Boston U.	6:31.8	24:21.0	147
+150	Yamazaki, Erika	SR-4	Binghamton	6:31.9	24:21.4	148
+151	Swanson, Kelsey	SR-4	Connecticut	6:32.2	24:22.4	149
+152	Sessa, Emily	SO-2	UMass Lowell	6:32.3	24:22.8	150
+153	Coletti, Samantha	JR-3	Army West Point	6:32.7	24:24.1	151
+154	Fuller, Brittany	JR-3	Buffalo	6:32.7	24:24.3	152
+155	O'Leary, Colette	SO-2	UMass Amherst	6:32.9	24:25.0	 
+156	DiCicco, Jody	JR-3	Sacred Heart	6:33.0	24:25.5	153
+157	Halloran, Michaela	FR-1	Holy Cross	6:33.2	24:26.2	154
+158	Kattman, Gaelyn	FR-1	Sacred Heart	6:33.3	24:26.3	155
+159	Hurley, Alexina	FR-1	UMass Amherst	6:33.6	24:27.4	 
+160	Pellegrini, Carolyn	JR-3	Siena	6:33.6	24:27.7	156
+161	Leighton, Jane	FR-1	Vermont	6:35.5	24:34.5	157
+162	Songer, Ellie	JR-3	Quinnipiac	6:35.6	24:35.1	158
+163	Pacheco, Shaelyn	SO-2	Quinnipiac	6:35.7	24:35.3	159
+164	Lord, Arianna	JR-3	Yale	6:36.2	24:37.2	160
+165	Bergen, Kaylee	SR-4	Fairfield	6:36.3	24:37.6	161
+166	Gihorski, Kate	FR-1	Quinnipiac	6:36.8	24:39.4	162
+167	Iocca, Kelly	SO-2	Albany	6:37.1	24:40.5	163
+168	Barrett, Tessa	SR-4	Providence	6:37.3	24:41.5	164
+169	Pierce, Bailey	FR-1	Canisius	6:37.4	24:41.6	165
+170	Jones, Riley	FR-1	Buffalo	6:37.7	24:42.8	166
+171	Peer, Chloe	SO-2	Binghamton	6:37.9	24:43.7	167
+172	Ocker, Coco	JR-3	Boston U.	6:38.2	24:44.8	168
+173	Betterbed, Dominique	SR-4	Boston U.	6:38.3	24:45.1	169
+174	Flagg, Laura	SO-2	UMass Lowell	6:38.4	24:45.6	170
+175	Maheshwari, Kajol	JR-3	Army West Point	6:38.8	24:47.1	171
+176	Tzimorotas, Cailtin	SO-2	Holy Cross	6:39.0	24:47.8	172
+177	Dana, Ashley	FR-1	Central Connecticut	6:40.6	24:53.5	173
+178	De Lucia, Bianca	JR-3	Sacred Heart	6:40.8	24:54.5	174
+179	Hedrick, Helen	FR-1	Army West Point	6:41.0	24:55.3	175
+180	Gunther, Hannah	SR-4	Colgate	6:41.1	24:55.5	176
+181	Klinowski, Nora	SO-2	Niagara	6:42.2	24:59.6	177
+182	Wolker, Elin	SR-4	Boston U.	6:43.0	25:02.7	178
+183	Demars, Nicole	SR-4	Hartford	6:43.3	25:03.9	179
+184	Nolan, Kira	FR-1	New Hampshire	6:44.9	25:09.6	180
+185	Cuffe, Dara	SR-4	Providence	6:45.7	25:12.5	181
+186	Martinez, Vicky	JR-3	Colgate	6:46.7	25:16.5	182
+187	Carney, Sara	JR-3	Wagner	6:46.8	25:16.9	 
+188	Liell, Vivian	SO-2	Wagner	6:47.4	25:18.9	 
+189	Barretto, Cayla	SO-2	New Hampshire	6:47.6	25:19.7	183
+190	Parkinson, Laura	SO-2	Boston U.	6:47.8	25:20.5	184
+191	Chesters, Sabrina	SO-2	Central Connecticut	6:47.9	25:20.9	185
+192	Quarshie, Kaylah	SO-2	Albany	6:48.1	25:21.8	186
+193	Scheck, Emily	SO-2	Canisius	6:48.5	25:23.0	187
+194	Wilkinson, Justyna	JR-3	Canisius	6:48.5	25:23.0	188
+195	Larson, Denise	SR-4	Colgate	6:49.0	25:25.0	189
+196	Serkes, Morgan	SO-2	Siena	6:49.1	25:25.3	190
+197	Mahoney, Caroline	SO-2	New Hampshire	6:49.4	25:26.5	191
+198	Melao, Mia	FR-1	Fairfield	6:49.9	25:28.5	192
+199	Hart, Meggie	FR-1	Niagara	6:50.1	25:29.0	193
+200	Berardi, Skyler	SR-4	Colgate	6:52.2	25:36.9	194
+201	Alex, Bridget	FR-1	Fordham	6:52.6	25:38.5	195
+202	Doyle, Aileen	SR-4	Canisius	6:55.0	25:47.4	196
+203	Villalba, Alex	FR-1	Fairfield	6:55.3	25:48.5	197
+204	Weiss, Olivia	JR-3	Sacred Heart	6:55.9	25:50.7	198
+205	Cass, Katherine	FR-1	Holy Cross	6:56.0	25:51.2	199
+206	Tedeschi, Allie	SR-4	Hartford	6:56.4	25:52.6	200
+207	Bugara, Grace	SO-2	Northeastern	6:56.5	25:52.8	201
+208	Joseph, Emma	JR-3	Colgate	6:57.4	25:56.3	202
+209	Cary, Emma	SR-4	Sacred Heart	6:57.5	25:56.6	203
+210	Graves, Elizabeth	SO-2	Holy Cross	6:57.7	25:57.6	204
+211	freemire, julia	JR-3	Niagara	6:58.1	25:59.0	205
+212	Farren, Kelsi	JR-3	Fairfield	7:00.2	26:06.6	206
+213	Frawley, Jane	FR-1	Fairfield	7:00.5	26:07.8	207
+214	Piccolo, Amy	SR-4	Northeastern	7:02.5	26:15.2	208
+215	Manners, Sophia	FR-1	Colgate	7:03.0	26:17.1	209
+216	Stone, Kaylee	SO-2	Binghamton	7:03.1	26:17.5	210
+217	Kelly, Brigit	SO-2	Sacred Heart	7:03.6	26:19.6	211
+218	Ayres, Julia	FR-1	Bryant	7:05.9	26:28.0	212
+219	Russell, Elle	FR-1	Niagara	7:07.2	26:32.8	213
+220	Hamel, Amanda	SR-4	Hartford	7:08.0	26:36.0	214
+221	Ricci, Morgan	SR-4	Central Connecticut	7:08.5	26:37.7	215
+222	Kern, Katie	SR-4	Fairfield	7:08.8	26:38.8	216
+223	Keown, Jamie	JR-3	Albany	7:09.8	26:42.6	217
+224	Rao, Sajora	FR-1	Buffalo	7:11.0	26:47.2	218
+225	Campise, Breann	JR-3	Bryant	7:13.3	26:55.7	219
+226	Ashton, Claire	SO-2	Binghamton	7:13.5	26:56.2	220
+227	Freeman, Sarah	FR-1	Bryant	7:14.3	26:59.4	221
+228	Hackman, Courtney	SR-4	Hartford	7:14.8	27:01.3	222
+229	Roman, Casey	FR-1	Niagara	7:16.0	27:05.5	223
+230	Baker, Kaeli	SR-4	Hartford	7:16.8	27:08.8	224
+231	Bryant, Diondra	SR-4	St. Francis (N.Y.)	7:17.1	27:09.9	 
+232	Gajewski, Danielle	SR-4	New Hampshire	7:17.2	27:10.0	225
+233	Rivers, Leah	SO-2	St. Francis (N.Y.)	7:19.4	27:18.2	 
+234	Kurz, Natalie	FR-1	Buffalo	7:21.7	27:27.1	226
+235	Boese, Megan	SO-2	Hofstra	7:23.1	27:32.2	227
+236	Bacher, Alli	SR-4	Hofstra	7:25.0	27:39.3	228
+237	Lock, Kierstin	SO-2	Bryant	7:26.7	27:45.5	229
+238	Kibler, Grace	FR-1	Niagara	7:29.5	27:56.2	230
+239	Meizen, Caroline	SO-2	Bryant	7:31.0	28:01.7	231
+240	ronan, mallory	JR-3	Niagara	7:33.3	28:10.0	232
+241	Accetura , Kailyn	SO-2	Central Connecticut	7:46.3	28:58.8	233
+242	Goyette, Elizabeth	SO-2	Bryant	7:57.1	29:38.8	234
+243	Suits, Alyssa	SO-2	Hofstra	9:02.5	33:42.9	235

@@ -1,0 +1,135 @@
+Place 	Bib#	Name	Yr	School	 Time	 Pace	 Pts
+1	 	Kelati, Weini	SO	New Mexico	 19:15.0	  	  
+2	 	Kurgat, Ednah	JR	New Mexico	 19:31.7	  	  
+3	 	Birk, Erica	JR	BYU	 19:34.9	  	  
+4	 	Smith, Jaci	SR	Air Force	 19:44.1	  	  
+5	 	Nickerson, Angie	SR	Southern Utah	 19:57.6	  	  
+6	 	Jones, Dani	SR	Colorado	 20:01.3	  	  
+7	 	Morley, Makena	SR	Colorado	 20:01.4	  	  
+8	 	Scholl, Tabor	JR	Colorado	 20:01.5	  	  
+9	 	Wayment, Courtney	JR	BYU	 20:01.7	  	  
+10	 	Cheruiyot, Linda	JR	Texas-El Paso	 20:05.1	  	  
+11	 	Prouse, Charlotte	SR	New Mexico	 20:05.5	  	  
+12	 	Cohen, Adva	SO	New Mexico	 20:05.6	  	  
+13	 	Koech, Winny	JR	Texas-El Paso	 20:10.1	  	  
+14	 	Constien, Val	SR	Colorado	 20:17.9	  	  
+15	 	Martin, Emily	SR	New Mexico	 20:18.4	  	  
+16	 	Eckel, Sophie	SO	New Mexico	 20:19.2	  	  
+17	 	Simmons, Cierra	SR	Utah State	 20:25.0	  	  
+18	 	Tuttle, Tayler	SR	Colorado	 20:26.0	  	  
+19	 	Caldwell, Mackenzie	SR	Colorado	 20:26.6	  	  
+20	 	Camp, Anna	SO	BYU	 20:30.6	  	  
+21	 	Dobbs, Hiley	JR	Nevada-Reno	 20:30.8	  	  
+22	 	Bries, Jesselyn	FR	Northern Arizona	 20:38.0	  	  
+23	 	Hoj, Olivia	JR	BYU	 20:42.5	  	  
+24	 	Mettler, Maria	SO	Air Force	 20:43.9	  	  
+25	 	Feeny, Sarah	JR	Utah	 20:46.6	  	  
+26	 	Snyder, Alyssa	SR	Utah State	 20:49.5	  	  
+27	 	Ness, Bailey	SR	Colorado State	 20:52.3	  	  
+28	 	Lasota, Kelsi	SR	Montana State	 20:52.5	  	  
+29	 	Pray, Alison	SO	Southern Utah	 20:54.0	  	  
+30	 	Musselman, Sara	SO	BYU	 20:55.1	  	  
+31	 	Thompson, Lexie	SR	Weber State	 20:55.2	  	  
+32	 	Behunin, Hannah	SO	Northern Arizona	 20:56.0	  	  
+33	 	Chepkosgei, Carolyne	SO	Texas-El Paso	 20:57.0	  	  
+34	 	Fruchey, Madison	SO	Southern Utah	 20:59.0	  	  
+35	 	Harper, Summer	JR	Weber State	 20:59.7	  	  
+36	 	Ortega, Stefanie	JR	Nevada-Reno	 21:01.0	  	  
+37	 	Bock, Ashley	JR	Wyoming	 21:01.8	  	  
+38	 	Tomasula-Marti, Lily	FR	Colorado State	 21:03.6	  	  
+39	 	Frentheway, Aubrey	FR	BYU	 21:03.8	  	  
+40	 	Koch, Lindsey	JR	Colorado	 21:05.6	  	  
+41	 	Dimick, Sharlie	SR	Southern Utah	 21:09.6	  	  
+42	 	Samuel, Swathi	JR	Air Force	 21:10.6	  	  
+43	 	Brady, Teri	JR	Air Force	 21:10.9	  	  
+44	 	Nuttall, Hannah	JR	New Mexico	 21:12.6	  	  
+45	 	Mitchem, Katelyn	FR	Wyoming	 21:13.2	  	  
+46	 	Navarrete-Lamas, Julieta	JR	Southern Utah	 21:14.0	  	  
+47	 	Woolnough, Cara	FR	Utah	 21:14.2	  	  
+48	 	Hanson, Jessa	SO	Northern Arizona	 21:15.0	  	  
+49	 	Lawrence, Abby	SO	Weber State	 21:15.4	  	  
+50	 	Eitel, Pipi	SO	Northern Arizona	 21:16.4	  	  
+51	 	Branch, Hannah	SO	Utah Valley Univ	 21:16.8	  	  
+52	 	Sickler, Lindsey	JR	Nevada-Reno	 21:17.9	  	  
+53	 	McGovern, Rachel	JR	Idaho State	 21:19.8	  	  
+54	 	Rivera, Micaela	FR	Utah State	 21:20.4	  	  
+55	 	Dominguez, Jessica	SO	New Mexico State	 21:20.7	  	  
+56	 	Williams, Isabella	SO	Utah	 21:21.9	  	  
+57	 	Blanks, Lindsey	JR	Air Force	 21:22.0	  	  
+58	 	Ryan, Megan	SR	Utah State	 21:23.7	  	  
+59	 	Kallner, Ali	SR	Colorado State	 21:24.5	  	  
+60	 	Pratt, Michelle	FR	Weber State	 21:24.7	  	  
+61	 	Maness, Gillian	JR	Montana State	 21:25.0	  	  
+62	 	Melvin, Shannon	SR	Northern Arizona	 21:26.2	  	  
+63	 	Oliver, Layne	SR	Montana State	 21:29.4	  	  
+64	 	Neuberger, Savannah	JR	Utah Valley Univ	 21:29.8	  	  
+65	 	Quistorff, Solana	SR	Wyoming	 21:30.4	  	  
+66	 	Trotter, Roxy	SR	Colorado State	 21:30.6	  	  
+67	 	Givens, Josie	JR	Utah State	 21:30.9	  	  
+68	 	Mitchell, Marlee	SR	Weber State	 21:31.5	  	  
+69	 	Kill, Jenna	FR	Air Force	 21:31.7	  	  
+70	 	Doner, Kacey	JR	Wyoming	 21:32.0	  	  
+71	 	Kelderman, Samantha	SO	Montana State	 21:32.8	  	  
+72	 	Bailey, Jessica	Sr	Montana	 21:35.7	  	  
+73	 	Melendrez, Alexis	FR	Nevada-Reno	 21:36.1	  	  
+74	 	Engebretsen, Samantha	Jr	Montana	 21:37.7	  	  
+75	 	Porcaro, Morgan	JR	Southern Utah	 21:38.4	  	  
+76	 	Zwahlen, Maggie	FR	Utah Valley Univ	 21:38.5	  	  
+77	 	Wassum, Sadie	SR	Utah	 21:41.1	  	  
+78	 	Dala, Seselia	JR	Texas Tech	 21:43.0	  	  
+79	 	Brooks, Madelyn	SR	BYU	 21:46.2	  	  
+80	 	Kauffman, Maddy	JR	Southern Utah	 21:46.8	  	  
+81	 	Land, Cassi	FR	Northern Arizona	 21:49.2	  	  
+82	 	Kresl, Elana	SO	New Mexico State	 21:49.7	  	  
+83	 	Person, Emily	SR	Wyoming	 21:51.2	  	  
+84	 	Yescas, Julia	JR	New Mexico State	 21:52.0	  	  
+85	 	Sargent, Cammy	SR	Northern Colorad	 21:52.3	  	  
+86	 	Johnston, Samantha	SR	Idaho State	 21:53.9	  	  
+87	 	Sondag, Ashley	SR	Idaho State	 21:54.8	  	  
+88	 	Lynch, Kami	JR	Utah Valley Univ	 21:55.0	  	  
+89	 	Ryan, Sophie	FR	Utah	 21:56.7	  	  
+90	 	Gonzales, Ivy	FR	Colorado State	 21:57.0	  	  
+91	 	Hanson, Corinne	JR	New Mexico State	 21:58.5	  	  
+92	 	Rasmussen, Delaney	SO	Northern Arizona	 21:58.9	  	  
+93	 	Leonard, Kiah	SR	Wyoming	 21:59.4	  	  
+94	 	Kreutz, Macy	JR	Colorado State	 22:00.5	  	  
+95	 	Olsen, Molly	SO	Idaho State	 22:01.8	  	  
+96	 	Salazar, Leah	JR	New Mexico State	 22:04.6	  	  
+97	 	Powell, Kennedy	FR	Utah	 22:05.1	  	  
+98	 	Graham, Aisha	SR	Utah Valley Univ	 22:06.3	  	  
+99	 	Vandepol, Regan	SR	Wyoming	 22:06.9	  	  
+100	 	Melaney, Mazzie	FR	Utah Valley Univ	 22:08.5	  	  
+101	 	Glockner, Kathleen	FR	Montana State	 22:09.2	  	  
+102	 	Miller, Michayla	JR	Weber State	 22:10.1	  	  
+103	 	Hickey, Bethany	FR	Idaho State	 22:10.8	  	  
+104	 	Walford, Tabatha	FR	Nevada-Reno	 22:13.9	  	  
+105	 	Gibbons, Grace	JR	Utah State	 22:14.3	  	  
+106	 	Anderson, Jenna	JR	Colorado State	 22:16.5	  	  
+107	 	Quintero, Stephanie	SR	New Mexico State	 22:17.9	  	  
+108	 	Dutson, Tavia	SR	Utah State	 22:19.5	  	  
+109	 	Williams, Isabella	JR	Weber State	 22:26.3	  	  
+110	 	Hansis, Mikaela	FR	Northern Colorad	 22:27.2	  	  
+111	 	Offerman, Lauren	SO	Texas Tech	 22:27.9	  	  
+112	 	Hamilton, Madeline	So	Montana	 22:30.0	  	  
+113	 	Nance, Bret Leigh	JR	Texas Tech	 22:30.1	  	  
+114	 	Anderson, Alaina	SR	Northern Colorad	 22:33.6	  	  
+115	 	Kirkpatrick, Kelli	SR	New Mexico State	 22:33.8	  	  
+116	 	Wylie, Hannah	Fr	Montana	 22:35.1	  	  
+117	 	Burns, Shanna	SR	Air Force	 22:35.7	  	  
+118	 	Simison, Erica	Fr	Montana	 22:40.7	  	  
+119	 	Kennedy, Cami	SR	Northern Colorad	 22:41.9	  	  
+120	 	Ka, Binta	FR	Texas Tech	 22:43.2	  	  
+121	 	Palladino, Shannon	JR	Nevada-Reno	 22:43.3	  	  
+122	 	Linford, Abby	FR	Utah Valley Univ	 22:45.8	  	  
+123	 	Thompson, Alicia	SR	Northern Colorad	 22:47.8	  	  
+124	 	Martinez, Jazmyn	FR	Texas Tech	 22:52.5	  	  
+125	 	Lopez, Arianna	SO	Texas Tech	 22:58.7	  	  
+126	 	Torrey, Rachel	Fr	Montana	 23:02.1	  	  
+127	 	Tatum, Alyssa	FR	Northern Colorad	 23:12.1	  	  
+128	 	MacDonald, Molly	FR	Montana State	 23:29.2	  	  
+129	 	Herrera, Jordan	SO	Northern Colorad	 23:38.0	  	  
+130	 	Orr, Alex	SO	Idaho State	 23:44.9	  	  
+131	 	Halloran, Allison	SO	Texas Tech	 24:00.6	  	  
+132	 	Alicke, Laura	SO	Idaho State	 24:05.7	  	  
+133	 	Lucero, Andrea	SO	Texas-El Paso	 24:49.9	  	  
+134	 	White, Destiny	SO	Texas-El Paso	 26:35.5	 

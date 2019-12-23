@@ -1,0 +1,250 @@
+1	 	Ostrander, Allie	JR	Boise State	 19:09.0	  	  
+2	 	Hull, Jessica	SR	Oregon	 19:22.5	  	  
+3	 	Ejore, Susan	SR	Oregon	 19:24.6	  	  
+4	 	Cranny, Elise	SR	Stanford	 19:26.2	  	  
+5	 	O'Keeffe, Fiona	JR	Stanford	 19:27.0	  	  
+6	 	O'Brien, Clare	JR	Boise State	 19:33.8	  	  
+7	 	Pyzik, Weronika	SR	Oregon	 19:35.4	  	  
+8	 	LaRocco, Lauren	SR	Portland	 19:38.3	  	  
+9	 	Rainsberger, Katie	JR	Washington	 19:40.6	  	  
+10	 	Rawlings, Taryn	SR	Portland	 19:48.2	  	  
+11	 	Venters, Emily	SO	Boise State	 19:53.9	  	  
+12	 	Mount, Juliana	SR	Oregon State	 19:54.5	  	  
+13	 	Cardama Baez, Carmela	SR	Oregon	 19:55.1	  	  
+14	 	Adler, Erika	SO	UCLA	 19:56.5	  	  
+15	 	Fuller, Alexis	SR	Boise State	 20:02.9	  	  
+16	 	Paholek, Maxine	FR	Boise State	 20:06.5	  	  
+17	 	Zerrenner, Addi	SR	Arizona	 20:08.3	  	  
+18	 	Daschian, Miranda	JR	Cal Poly SLO	 20:10.3	  	  
+19	 	Richardson, Aoibhe	JR	Portland	 20:10.9	  	  
+20	 	Brauer, Isabelle	JR	Oregon	 20:12.8	  	  
+21	 	Schadler, Allie	SO	Washington	 20:13.3	  	  
+22	 	Izzo, Katie	JR	Cal Poly SLO	 20:14.5	  	  
+23	 	Rice, Christina	SO	UCLA	 20:20.7	  	  
+24	 	Lawson, Jessica	SO	Stanford	 20:21.5	  	  
+25	 	Baragar-Petrash, Jenny	JR	Arizona	 20:22.8	  	  
+26	 	Lopez, Kyra	JR	Boise State	 20:22.9	  	  
+27	 	Huerta, Samantha	JR	CS Fullerton	 20:23.4	  	  
+28	 	McCulloch, Shona	FR	Washington	 20:29.7	  	  
+29	 	Gehrich, Amanda	JR	Oregon	 20:31.9	  	  
+30	 	Sandoval, Jenny	JR	San Jose State	 20:33.6	  	  
+31	 	Heymach, Julia	SO	Stanford	 20:33.9	  	  
+32	 	Wolf, Haley	FR	Oregon State	 20:35.3	  	  
+33	 	Burdon, Lilli	JR	Washington	 20:37.2	  	  
+34	 	Hamlin, Emily	SR	Washington	 20:39.5	  	  
+35	 	Story, Kara	JR	Idaho	 20:41.5	  	  
+36	 	Oakes, Jordan	SO	Stanford	 20:42.2	  	  
+37	 	Schulte, Tatjana	SR	San Francisco	 20:44.8	  	  
+38	 	Bohannon, Kai	SO	San Jose State	 20:45.8	  	  
+39	 	Medved, Sarah	SR	Portland State	 20:48.1	  	  
+40	 	Gibson, Kaila	SR	Portland State	 20:48.4	  	  
+41	 	Boos, Annie	SO	UC Berkeley	 20:51.6	  	  
+42	 	Bird, Elizabeth	SR	San Francisco	 20:51.6	  	  
+43	 	Rosvall, Astrid	SO	UC Santa Barbara	 20:52.8	  	  
+44	 	Tostenson, Gracie	SR	Boise State	 20:53.6	  	  
+45	 	Reed, Lexi	SO	Oregon State	 20:55.2	  	  
+46	 	Howard, Becca	SR	Portland	 20:55.8	  	  
+47	 	Davies, Megan	JR	San Francisco	 20:57.4	  	  
+48	 	Zambrano, Jeanette	SR	San Jose State	 20:57.8	  	  
+49	 	Korir, Vallery	SR	Washington State	 20:59.6	  	  
+50	 	Fisk, Abigail	SO	Cal Poly SLO	 21:00.7	  	  
+51	 	Ruelas, Trinity	SO	CS Fullerton	 21:01.8	  	  
+52	 	Garner, Jacqueline	JR	UCLA	 21:02.5	  	  
+53	 	Arndt, Ariane	SO	UC Berkeley	 21:03.5	  	  
+54	 	Rasmussen, Hannah	SO	U of San Diego	 21:03.7	  	  
+55	 	Lookner, Audrey	SO	Oregon State	 21:04.0	  	  
+56	 	Grujic, Zorana	FR	Washington State	 21:05.5	  	  
+57	 	Vincent, Lucina	FR	CS Fullerton	 21:06.0	  	  
+58	 	Brill, Sierra	SO	Cal Poly SLO	 21:07.4	  	  
+59	 	Story, Rebecca	FR	Stanford	 21:08.2	  	  
+60	 	Friedman, Mari	FR	Oregon State	 21:09.0	  	  
+61	 	Okeago, Janet	JR	Washington State	 21:09.2	  	  
+62	 	Schmidt, Lily	JR	UCLA	 21:10.1	  	  
+63	 	Haven, Daan	SO	Arizona State	 21:10.6	  	  
+64	 	Ulrichova, Alena	SR	San Francisco	 21:11.4	  	  
+65	 	Zlatunich, Marea	FR	UC Berkeley	 21:12.6	  	  
+66	 	Cox, Courtney	SR	Portland	 21:13.3	  	  
+67	 	Jenkins, Emma	FR	Washington State	 21:13.4	  	  
+68	 	Ortega, Samantha	JR	Arizona State	 21:13.9	  	  
+69	 	Quinones, Amy	SR	Sacramento State	 21:14.8	  	  
+70	 	Anderson, Sarah	JR	UC Davis	 21:15.2	  	  
+71	 	Markey, Claire	JR	UCLA	 21:16.0	  	  
+72	 	Masedo, Giselle	SR	Loyola Marymount	 21:17.3	  	  
+73	 	Fox, Sydney	FR	Fresno State	 21:19.2	  	  
+74	 	O'Keeffe, Olivia	FR	Washington	 21:19.5	  	  
+75	 	Weiler, Virag	SR	Portland	 21:19.6	  	  
+76	 	Durgy, Cassandra	JR	UCLA	 21:20.0	  	  
+77	 	Taite, Taylor	JR	UCLA	 21:20.7	  	  
+78	 	Meza, Evelin	FR	San Jose State	 21:23.4	  	  
+79	 	Thacker, Malaina	SO	Idaho	 21:23.4	  	  
+80	 	Lemak, Julia	JR	UC Davis	 21:23.7	  	  
+81	 	Story, Krista	JR	Idaho	 21:24.1	  	  
+82	 	Pagano, Catherine	SR	Stanford	 21:24.4	  	  
+83	 	Piercy, Aimee	JR	Gonzaga	 21:24.7	  	  
+84	 	Hansel, Chloe	SO	UC Berkeley	 21:25.8	  	  
+85	 	Balsan, Elizabeth	SO	Grand Canyon	 21:25.9	  	  
+86	 	Carter, Sarah	FR	Washington	 21:26.9	  	  
+87	 	Vorgitch, Madelyn	SR	Loyola Marymount	 21:27.7	  	  
+88	 	Nichols, Alexis	JR	Arizona State	 21:27.9	  	  
+89	 	Aldapa, Adilene	SR	San Jose State	 21:28.1	  	  
+90	 	Perez, Savanna	JR	San Jose State	 21:28.3	  	  
+91	 	Chau, Hannah	FR	UC Irvine	 21:32.7	  	  
+92	 	McDonald, Maddie	SR	Cal Poly SLO	 21:33.0	  	  
+93	 	Victor, Rachel	SO	Sacramento State	 21:33.1	  	  
+94	 	De La Rosa, Gabrielle	SR	CS Fullerton	 21:33.8	  	  
+95	 	Meeder, Annie	SO	Cal Poly SLO	 21:35.2	  	  
+96	 	Brysting, Josephine	SR	San Francisco	 21:36.4	  	  
+97	 	Flores, Sandra	JR	CS Fullerton	 21:37.1	  	  
+98	 	Camarena, Katie	JR	UC Santa Barbara	 21:38.3	  	  
+99	 	Chiotti, Taylor	FR	Oregon	 21:38.5	  	  
+100	 	NYE, Jessica	FR	UC Berkeley	 21:38.7	  	  
+101	 	Danforth, Kyla	JR	Loyola Marymount	 21:39.3	  	  
+102	 	Keefe, Kaili	JR	Washington State	 21:39.3	  	  
+103	 	Jacobson, Lindy	SR	Grand Canyon	 21:39.5	  	  
+104	 	Condie, Andrea	SR	Idaho	 21:39.9	  	  
+105	 	White, Delaney	SO	Portland State	 21:40.5	  	  
+106	 	Fehr, Jasmine	SO	Portland	 21:41.2	  	  
+107	 	Bolt, Abby	JR	St Mary's (CA)	 21:41.4	  	  
+108	 	Gonzalez, Jasmine	JR	University of th	 21:41.7	  	  
+109	 	Adel, Haley	JR	UC Davis	 21:42.0	  	  
+110	 	Lewis, Coutney	JR	Arizona State	 21:42.0	  	  
+111	 	Block, Alyssa	JR	CS Fullerton	 21:43.5	  	  
+112	 	Dishion, Kaela	FR	St Mary's (CA)	 21:45.5	  	  
+113	 	Ramos, Sofia	FR	Long Beach State	 21:45.7	  	  
+114	 	Kavulich, Linnaea	FR	Portland State	 21:45.9	  	  
+115	 	Reniewicki, Megan	SO	Arizona State	 21:47.1	  	  
+116	 	Hildebrandt, Paige	JR	Grand Canyon	 21:47.2	  	  
+117	 	Takeuchi, Brigette	SO	Oregon State	 21:48.5	  	  
+118	 	Campos, Nathalia	FR	Idaho	 21:51.5	  	  
+119	 	Mitchell, Abigayle	SO	St Mary's (CA)	 21:52.2	  	  
+120	 	Gaudin, Marie	JR	Washington State	 21:52.5	  	  
+121	 	Dorantes, Brenda	JR	UC Irvine	 21:54.8	  	  
+122	 	Jacques, Phoebe	FR	Portland State	 21:55.0	  	  
+123	 	Reis, Denise	SR	Sacramento State	 21:55.6	  	  
+124	 	Carroll, Kelsey	JR	CS Fullerton	 21:56.8	  	  
+125	 	Meck, Abbey	SO	Pepperdine	 21:57.8	  	  
+126	 	D'Atri, Marissa	FR	San Diego State	 21:58.3	  	  
+127	 	Wohlenberg, Hannah	JR	Loyola Marymount	 21:58.6	  	  
+128	 	Pruter, Anna	JR	Arizona State	 21:58.7	  	  
+129	 	Clawson, Kenna	FR	UC Berkeley	 21:58.8	  	  
+130	 	Overell, Emma	FR	UC Santa Barbara	 21:58.8	  	  
+131	 	Hanson, Camilla	JR	San Jose State	 21:59.3	  	  
+132	 	Rodriguez, Marisa	SO	UC Santa Barbara	 22:00.1	  	  
+133	 	Obermeyer, Noelani	JR	Santa Clara	 22:00.6	  	  
+134	 	Hagen, Erin	SR	Idaho	 22:00.9	  	  
+135	 	Gracian, Vanessa	FR	UC Riverside	 22:01.1	  	  
+136	 	Rippey, Jasmine	FR	UC Santa Barbara	 22:03.1	  	  
+137	 	Barger, Keelah	FR	Arizona	 22:04.1	  	  
+138	 	Klein, Molly	SO	U of San Diego	 22:05.4	  	  
+139	 	Moore, Zani	SR	U of San Diego	 22:06.6	  	  
+140	 	McCurry, Emma	SO	Santa Clara	 22:07.6	  	  
+141	 	Almanza, Valerie	SO	San Francisco	 22:08.0	  	  
+142	 	Diaz, Leslie	FR	Long Beach State	 22:08.1	  	  
+143	 	MacGregor, Sarah	FR	UC Santa Barbara	 22:09.3	  	  
+144	 	Catena, Grace	FR	Loyola Marymount	 22:10.4	  	  
+145	 	Fitzsimmons, Mauren	SO	Long Beach State	 22:11.2	  	  
+146	 	Covington, Hannah	FR	Santa Clara	 22:12.1	  	  
+147	 	Storm, Hunter	FR	Portland State	 22:14.2	  	  
+148	 	Gillett, Claire	SO	Gonzaga	 22:15.0	  	  
+149	 	Wainfan, Mandy	JR	UC Davis	 22:16.1	  	  
+150	 	Fetherstonhaugh, Grace	FR	Oregon State	 22:18.0	  	  
+151	 	Fitzsimmons, Delaney	JR	Cal Poly SLO	 22:18.6	  	  
+152	 	Whetzel, Hannah	SR	Arizona	 22:20.2	  	  
+153	 	McCarthy, Caroline	SO	Gonzaga	 22:20.4	  	  
+154	 	Leather, Ellie	SO	Fresno State	 22:20.7	  	  
+155	 	Rovere, Elisa	SO	Nevada-Las Vegas	 22:21.7	  	  
+156	 	Burke, Samantha	FR	Portland State	 22:22.2	  	  
+157	 	Chamberlin, Marin	FR	UC Davis	 22:22.2	  	  
+158	 	Duncan, Cagnei	SO	Sacramento State	 22:23.7	  	  
+159	 	Kuhn, Cassidy	JR	U of San Diego	 22:24.6	  	  
+160	 	Ward, Anaya	FR	UC Davis	 22:25.1	  	  
+161	 	Comiso, Paige	FR	San Diego State	 22:25.1	  	  
+162	 	Karnaze, Anastasia	JR	UC Irvine	 22:26.0	  	  
+163	 	Laurenzana, Renee	FR	San Diego State	 22:26.3	  	  
+164	 	David, Rosemary	FR	Sacramento State	 22:26.8	  	  
+165	 	King, Sarah	SO	Santa Clara	 22:27.0	  	  
+166	 	Alvarez-Tostado, Ana	FR	Grand Canyon	 22:27.7	  	  
+167	 	Winkler, Emma	JR	University of th	 22:29.3	  	  
+168	 	Fitzgerald, Kenzie	SR	Grand Canyon	 22:29.7	  	  
+169	 	Hartke, Alize	FR	San Diego State	 22:30.3	  	  
+170	 	Bourgeois, Lauren	JR	Gonzaga	 22:31.4	  	  
+171	 	Eligio, Heidi	SO	CS Northridge	 22:31.8	  	  
+172	 	Allen, Alyssa	JR	Long Beach State	 22:31.8	  	  
+173	 	Roessling, Ally	JR	U of San Diego	 22:31.9	  	  
+174	 	Marshall, Isa	JR	UC Santa Barbara	 22:31.9	  	  
+175	 	Conn, Morgan	FR	U of San Diego	 22:32.1	  	  
+176	 	North-Cole, Natalie	SR	U of San Diego	 22:32.2	  	  
+177	 	Pear, Amelia	JR	Sacramento State	 22:33.1	  	  
+178	 	Gustafson, Katherine	SO	Gonzaga	 22:33.3	  	  
+179	 	Vetter, Lara	SO	UC Davis	 22:33.7	  	  
+180	 	Wilson-Perteete, Avi' Ta	SO	Nevada-Las Vegas	 22:35.5	  	  
+181	 	Bockrath, Perri	FR	Loyola Marymount	 22:36.0	  	  
+182	 	Brewer, Maizy	JR	Idaho	 22:36.9	  	  
+183	 	Ripple, Monica	SR	Gonzaga	 22:38.8	  	  
+184	 	Aguilar, Perla	FR	UC Irvine	 22:39.3	  	  
+185	 	Stinger, Desi	JR	Washington State	 22:40.4	  	  
+186	 	Soto, Alison	FR	UC Riverside	 22:40.9	  	  
+187	 	Kastama, Rachel	SO	Seattle Universi	 22:41.5	  	  
+188	 	Leon, Neylene	SR	St Mary's (CA)	 22:42.2	  	  
+189	 	Semone, Lucie	SO	Santa Clara	 22:43.4	  	  
+190	 	Delorey, Megan	SO	Seattle Universi	 22:43.5	  	  
+191	 	Ewe, Natalie	FR	UC Irvine	 22:43.6	  	  
+192	 	Corda, Meredith	SO	UC Berkeley	 22:43.9	  	  
+193	 	Wallace, Erica	JR	Grand Canyon	 22:46.8	  	  
+194	 	Rivera, Leslie	JR	UC Riverside	 22:48.1	  	  
+195	 	Wahlenmaier, Emma	SO	Nevada-Las Vegas	 22:49.6	  	  
+196	 	Sherman, Johanna	FR	Eastern Washingt	 22:50.9	  	  
+197	 	Vargas, Julie	JR	Long Beach State	 22:51.8	  	  
+198	 	Postma, Ellie	FR	Seattle Universi	 22:52.1	  	  
+199	 	Cabrera, Haley	SO	UC Riverside	 22:52.5	  	  
+200	 	Sanger, Lindsay	SO	Pepperdine	 22:53.0	  	  
+201	 	Watson, Katie	JR	St Mary's (CA)	 22:53.8	  	  
+202	 	Shields, Sami	JR	Fresno State	 22:55.3	  	  
+203	 	Cordova, McKayla	SO	Grand Canyon	 22:56.7	  	  
+204	 	Stein, Elle	SO	Seattle Universi	 22:57.3	  	  
+205	 	Beaumont, Haley	JR	Hawaii Manoa	 22:59.6	  	  
+206	 	Higgins, Shannan	JR	Seattle Universi	 23:04.0	  	  
+207	 	Theologidy, Mariah	JR	UC Irvine	 23:06.6	  	  
+208	 	Ferris, Jamie	SR	Santa Clara	 23:06.8	  	  
+209	 	Dolan, Blayney	FR	Sacramento State	 23:06.9	  	  
+210	 	Alvarenga, Katie	SR	CS Northridge	 23:09.2	  	  
+211	 	Tran, Alyssa	SO	UC Riverside	 23:10.7	  	  
+212	 	Ceballos, Alexis	SR	Long Beach State	 23:12.3	  	  
+213	 	Burbank, Ellen	FR	St Mary's (CA)	 23:14.6	  	  
+214	 	Van der marel, Merel	FR	San Francisco	 23:15.5	  	  
+215	 	Foulk, Thea	JR	Seattle Universi	 23:17.3	  	  
+216	 	Santiago, Sienna	SO	Hawaii Manoa	 23:17.4	  	  
+217	 	Legard, Ally	SO	Gonzaga	 23:17.7	  	  
+218	 	Rowlinson, Danielle	FR	Loyola Marymount	 23:17.8	  	  
+219	 	Phillips, Renee	SO	San Diego State	 23:19.3	  	  
+220	 	Saitta, Angela	SO	Arizona State	 23:23.7	  	  
+221	 	Boyd, Keely	JR	UC Irvine	 23:24.2	  	  
+222	 	Jordan, Maureen	FR	Fresno State	 23:28.3	  	  
+223	 	Haberman, Isabella	FR	Fresno State	 23:30.0	  	  
+224	 	Aguilar, Phoenix	FR	Eastern Washingt	 23:40.0	  	  
+225	 	Jimenez, Sophie	FR	Fresno State	 23:46.0	  	  
+226	 	Atwood, Kiley	SO	UC Riverside	 23:46.2	  	  
+227	 	Bosede, Joy	FR	CS Northridge	 23:49.5	  	  
+228	 	Stities, Lizzie	FR	Eastern Washingt	 23:49.8	  	  
+229	 	Allen, Kennedy	SO	Nevada-Las Vegas	 23:53.9	  	  
+230	 	Bowman, Alison	JR	Hawaii Manoa	 23:57.1	  	  
+231	 	Chahrouri, Marie-Therese	FR	Seattle Universi	 23:57.8	  	  
+232	 	Cocales, Claire	FR	Santa Clara	 23:58.9	  	  
+233	 	Persinger, Cori	JR	Pepperdine	 23:59.1	  	  
+234	 	Arreola, Ashley	SO	Eastern Washingt	 24:01.3	  	  
+235	 	Girard, Danielle	SR	Hawaii Manoa	 24:02.1	  	  
+236	 	Stevens, Sara	SO	Fresno State	 24:02.6	  	  
+237	 	Wylie, Emily	JR	University of th	 24:03.3	  	  
+238	 	Wright, Riley	FR	Pepperdine	 24:07.2	  	  
+239	 	Dazasanchez, Angie	JR	St Mary's (CA)	 24:08.4	  	  
+240	 	Poliakon, Samantha	JR	UC Riverside	 24:09.3	  	  
+241	 	Regalado, Natalie	FR	San Diego State	 24:19.9	  	  
+242	 	White, Shelby	FR	Pepperdine	 24:23.1	  	  
+243	 	Stewart, Hope	FR	Hawaii Manoa	 24:24.8	  	  
+244	 	Couch, Caitlyn	FR	San Diego State	 24:34.2	  	  
+245	 	Casazza, Giovanna	SR	Hawaii Manoa	 24:44.8	  	  
+246	 	Martinez, Anna	SO	University of th	 24:49.9	  	  
+247	 	Moore, Grace	FR	Nevada-Las Vegas	 25:06.0	  	  
+248	 	Corrigan, Kaelah	JR	Eastern Washingt	 25:22.3	  	  
+249	 	Duignan, Skylar	SO	University of th	 25:31.6	  	  
+250	 	Aberson, Cassidy	SO	Pepperdine	 25:41.8
